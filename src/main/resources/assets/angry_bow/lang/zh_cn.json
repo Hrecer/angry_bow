@@ -1,0 +1,23 @@
+{
+  "item.angry_bow.snowball_bow": "雪球弓",
+  "item.angry_bow.snowball_bow_iron": "铁雪球弓",
+  "item.angry_bow.snowball_bow_copper": "铜雪球弓",
+  "item.angry_bow.snowball_bow_diamond": "钻石雪球弓",
+  "item.angry_bow.snowball_bow_nether": "下界雪球弓",
+  "entity.angry_bow.projectile_snowball_bow": "雪球",
+  "entity.angry_bow.projectile_snowball_bow_iron": "雪球",
+  "entity.angry_bow.projectile_snowball_bow_copper": "雪球",
+  "entity.angry_bow.projectile_snowball_bow_diamond": "雪球",
+  "entity.angry_bow.projectile_snowball_bow_nether": "雪球",
+  "item.angry_bow.fireball_bow": "火球弓",
+  "item.angry_bow.fireball_bow_iron": "铁火球弓",
+  "item.angry_bow.fireball_bow_copper": "铜火球弓",
+  "item.angry_bow.fireball_bow_diamond": "钻石火球弓",
+  "item.angry_bow.fireball_bow_nether": "下界火球弓",
+  "entity.angry_bow.projectile_fireball_bow": "小火球",
+  "entity.angry_bow.projectile_fireball_bow_iron": "小火球",
+  "entity.angry_bow.projectile_fireball_bow_copper": "小火球",
+  "entity.angry_bow.projectile_fireball_bow_diamond": "小火球",
+  "entity.angry_bow.projectile_fireball_bow_nether": "小火球",
+  "itemGroup.angry_bow.tab": "安格瑞的弓"
+}
