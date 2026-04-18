@@ -1,0 +1,23 @@
+{
+  "item.angry_bow.snowball_bow": "Snowball Bow",
+  "item.angry_bow.snowball_bow_iron": "Iron Snowball Bow",
+  "item.angry_bow.snowball_bow_copper": "Copper Snowball Bow",
+  "item.angry_bow.snowball_bow_diamond": "Diamond Snowball Bow",
+  "item.angry_bow.snowball_bow_nether": "Nether Snowball Bow",
+  "entity.angry_bow.projectile_snowball_bow": "Snowball",
+  "entity.angry_bow.projectile_snowball_bow_iron": "Snowball",
+  "entity.angry_bow.projectile_snowball_bow_copper": "Snowball",
+  "entity.angry_bow.projectile_snowball_bow_diamond": "Snowball",
+  "entity.angry_bow.projectile_snowball_bow_nether": "Snowball",
+  "item.angry_bow.fireball_bow": "Fireball Bow",
+  "item.angry_bow.fireball_bow_iron": "Iron Fireball Bow",
+  "item.angry_bow.fireball_bow_copper": "Copper Fireball Bow",
+  "item.angry_bow.fireball_bow_diamond": "Diamond Fireball Bow",
+  "item.angry_bow.fireball_bow_nether": "Nether Fireball Bow",
+  "entity.angry_bow.projectile_fireball_bow": "Small Fireball",
+  "entity.angry_bow.projectile_fireball_bow_iron": "Small Fireball",
+  "entity.angry_bow.projectile_fireball_bow_copper": "Small Fireball",
+  "entity.angry_bow.projectile_fireball_bow_diamond": "Small Fireball",
+  "entity.angry_bow.projectile_fireball_bow_nether": "Small Fireball",
+  "itemGroup.angry_bow.tab": "Angry Bow"
+}
